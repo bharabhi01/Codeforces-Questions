@@ -1,1 +1,1 @@
-# Codeforces-Questions
+Collections of Codeforces questions.
